@@ -51,5 +51,7 @@ def color_mixer_2(color1 , color2):
 
 # first function call
 print('Welcome to color mixer game 🎨')
-#color_mixer()
+color_mixer()
+# second function call
+print('Welcome to color mixer game 🎨')
 color_mixer_2("yellow" , "blue")
