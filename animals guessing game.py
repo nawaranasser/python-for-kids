@@ -7,7 +7,7 @@ hints = {
     "dog": "I bark and wag my tail",
     "elephant": "I have a long trunk",
     "lion": "I am the king of the jungle",
-    "tiger": "I have stripes and a loud roar"
+    "tiger": "I have high speed and a loud roar"
 }
 
 chosen = random.choice(animals)
