@@ -1,9 +1,6 @@
 # create a list of words
 import random
-
 fruits = ['apple', 'banana', 'strawberry']
-
-
 # Main function for the guessing game
 def guessing_game():
     # define the function guessing_game
@@ -33,4 +30,4 @@ def guessing_game():
 
 
 # Call the guessing_game function to start the game
-gussing_game()
+guessing_game()
